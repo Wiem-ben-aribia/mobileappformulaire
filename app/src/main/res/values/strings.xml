@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">formulaire</string>
+    <string-array name="pays_array">
+        <item>France</item>
+        <item>Canada</item>
+        <item>Belgique</item>
+        <item>Maroc</item>
+        <item>Tunisie</item>
+        <item>Algérie</item>
+    </string-array>
+</resources>
